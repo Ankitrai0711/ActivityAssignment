@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityAssignment</string>
+    <string name="click_me">Click me</string>
+    <string name="this_is_screen_1">This is Screen 1</string>
+    <string name="write_your_name">Write Your Name</string>
+    <string name="this_is_data">This is Data</string>
+    <string name="enter_something">Enter Something</string>
+</resources>
